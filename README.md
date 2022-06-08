@@ -1,2 +1,2 @@
-# deployment_with_sagemaker
-Deploying a Sentiment Analysis Model with SageMaker
+# Deploying a Sentiment Analysis Model with SageMaker
+This is for project submission only, details coming soon...
