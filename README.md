@@ -13,4 +13,4 @@ We then create a lookup table that maps words to integers, which we will use dur
 ## Network
 
 The network is an LSTM with one embedding layer, one lstm layer and one linear layer with sigmoid activation. We can use ```pygmantize``` command to visualize the piece of code that implements the network in a very pretty way! 
-[Alt text](pyg.png?raw=true "Title")
+![Alt text](pyg.png?raw=true "Title")
